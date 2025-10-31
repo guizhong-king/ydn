@@ -1,0 +1,10 @@
+
+# Common Python ignores (optional)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+
+# (removed) previously ignored /app; now track app and its files

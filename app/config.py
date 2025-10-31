@@ -2,7 +2,7 @@
 import os
 
 # URL 和 浏览器路径优先从环境变量读取
-URL = os.environ.get('AUTO_URL', "https://pplx.ai/chutiankuo64723")
+URL = os.environ.get('AUTO_URL', "https://pplx.ai/171654448770452")
 
 # Windows 系统下默认下载目录：C:\Users\用户名\Downloads
 if os.name == 'nt':
